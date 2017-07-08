@@ -5,4 +5,4 @@
 **Description:**
 Adjacency Matrix Implementation of Graph Data Structure.
 
-For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr   ✉️
+**For more detailed questions, you can contact me at this email address: msarac13@ku.edu.tr**&nbsp;&nbsp;   ✉️
